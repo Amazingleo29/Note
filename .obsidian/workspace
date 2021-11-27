@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "b97d35363cf40c5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fba8b8c79a7b7ae1",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b6387ef1e183e1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "33f06502092c9cef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a24f68a7e717bde5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f80d68dba5d7a0e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 198
+  },
+  "right": {
+    "id": "63d7c8136c9b7318",
+    "type": "split",
+    "children": [
+      {
+        "id": "07a05a8dff03ffbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ddd60ef158ca6eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ae98ca19405df46",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "fba8b8c79a7b7ae1",
+  "lastOpenFiles": [
+    "Zettelkasten/Prova.md",
+    "Template/Core Zettelkasten Idea.md"
+  ]
+}
