@@ -1,3 +1,7 @@
+ 202111291830
+Tags: #ProgAlg #Math
+
+# Numeri Casuali
  -Deterministico --> date le condizioni iniziali, il risultato sarà sempre no stesso
 
 - Probabilistico -->date le condizioni iniziali, posso dare una probabilità che esca un determinato numero 
@@ -9,3 +13,6 @@
 - Linear recurrence modulo 2 generator 
 
 Altri algoritmi sulle slide Rand_QS
+
+---
+### References
