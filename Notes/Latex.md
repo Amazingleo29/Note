@@ -9,4 +9,4 @@ Le cose fra \$\$ \$\$ vengono renderizzate con Latex come equazioni non in linea
 ---
 ### References
 
-[Doc di Latex](https://www.latex-project.org/help/documentation/amsldoc.pdf)
+- [Doc di Latex](https://www.latex-project.org/help/documentation/amsldoc.pdf)
