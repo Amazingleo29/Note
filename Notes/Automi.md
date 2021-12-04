@@ -9,7 +9,7 @@ Tags: [[Informatica]] [[FDI]]
 - $T \subseteq (A \times S) \times S$  è una relazione in $Rel(A \times S, S)$, detta **relazione di transizione**, che associa ad ogni lettera dell’alfabeto $a \in A$ e ad ogni stato di partenza $x \in S$ zero o più stati di arrivo
 - $F \subseteq S$ è l’insieme degli **stati finali** (anche detti stati di accettazione)
 
-L’automa $\mathcal{A}$ si dice a ** ** se l’insieme degli stati S è finito.
+L’automa $\mathcal{A}$ si dice a **stati finiti** se l’insieme degli stati S è finito.
 
 Intuitivamente, gli elementi di S sono tutti gli stati, e quelli di F sono gli stati di accettazione. Un elemento $((a, x), y) \in (A \times S) \times S$  rappresenta una transizione che porta l’automa dallo stato di partenza x allo stato di arrivo y leggendo il simbolo $a \in A$.
 
