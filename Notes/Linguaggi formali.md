@@ -3,9 +3,11 @@ Status: #Note
 Tags: [[Informatica]] [[FDI]]
 
 # Linguaggi formali
-**Definizione**: Dato un [[alfabeto]] _A_, un **linguaggio** su _A_ è un insieme $L \subseteq A^*$. L’insieme di tutti i linguaggi è denotato con $P(A^*)$.
+**Definizione**
+Dato un [[alfabeto]] _A_, un **linguaggio** su _A_ è un insieme $L \subseteq A^*$. L’insieme di tutti i linguaggi è denotato con $P(A^*)$.
 
-**Operazioni su linguaggi**: I linguaggi su uno stesso alfabeto _A_ possono essere combinati, in modi molto simili a come vengono combinate le relazioni su uno stesso insieme. Tre linguaggi “notevoli”:
+**Operazioni su linguaggi**
+I linguaggi su uno stesso alfabeto _A_ possono essere combinati, in modi molto simili a come vengono combinate le relazioni su uno stesso insieme. Tre linguaggi “notevoli”:
 
 - Linguaggio vuoto $\varnothing = \{\}$
 - Linguaggio che contiene solo la stringa vuota $\{\varepsilon\}$
