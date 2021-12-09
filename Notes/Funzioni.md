@@ -14,6 +14,11 @@ Sia $A$ un insieme. Una **proprietà** su $A$ è una funzione che ha come insiem
 [[Funzioni parziali]]
 
 ---
+
+### Biezioni
+[[Biezioni]]
+
+---
 ### References
 - [[Insiemi]]
 - [[Relazioni]]
